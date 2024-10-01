@@ -5,6 +5,7 @@ There are 25 input data examples(hotels) in hotel_data.csv and 50 in hotel_data2
 All the other details of the structure and the algorithms are explained next to the code in every box.
 
 
+The project is inspired by algorithms and ideas presented in the "Machine Learning Specialization" course, by Andrew Ng, from the Coursera official website.
 Formulas used in the code:
 
 StandardScaler (computes z-score normalization):
