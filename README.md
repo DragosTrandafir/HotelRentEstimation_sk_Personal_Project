@@ -6,6 +6,7 @@ All the other details of the structure and the algorithms are explained next to 
 
 
 The project is inspired by algorithms and ideas presented in the "Machine Learning Specialization" course, by Andrew Ng, from the Coursera official website.
+THIS PROJECT IS JUST EXPERIMENTAL, DO NOT RELY ON ITS RESULTS IN THE REAL WORLD.
 Formulas used in the code:
 
 StandardScaler (computes z-score normalization):
